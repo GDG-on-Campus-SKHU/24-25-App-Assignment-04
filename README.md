@@ -42,7 +42,7 @@ PR 작성하실 때, 궁금한 점이나 어려웠던 점 등을 적어주세요
   <summary>과제 예시</summary>
   <div>
     <ul>
-      <li>![image](https://github.com/user-attachments/assets/68d21eb7-c3ea-4d26-8e13-e64b858e83df)</li>
+      <li> ![image](https://github.com/user-attachments/assets/68d21eb7-c3ea-4d26-8e13-e64b858e83df) </li>
     </ul>
   </div>
 </details>
