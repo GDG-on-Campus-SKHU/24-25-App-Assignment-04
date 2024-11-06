@@ -37,5 +37,15 @@ PR 작성하실 때, 궁금한 점이나 어려웠던 점 등을 적어주세요
 ---
 
 ### 예시
+
+<details markdown="1">
+  <summary>과제 예시/summary>
+  <div>
+    <ul>
+      <li>![image](https://github.com/user-attachments/assets/95ae8f8e-19e4-4f6b-abc5-2af4428c9f92)</li>
+    </ul>
+  </div>
+</details>
+
 cf. 예시에서 자기소개와 2025 목표는 ListTile을 이용해 구현했습니다. 
-![image](https://github.com/user-attachments/assets/95ae8f8e-19e4-4f6b-abc5-2af4428c9f92)
+
