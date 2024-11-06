@@ -38,4 +38,4 @@ PR 작성하실 때, 궁금한 점이나 어려웠던 점 등을 적어주세요
 
 ### 예시
 cf. 예시에서 자기소개와 2025 목표는 ListTile을 이용해 구현했습니다. 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/122f623e-3ace-4006-ab8a-01f447e00c2e/4b533937-12b5-4f77-9963-b0ba4932448c/image.png)
+![image](https://github.com/user-attachments/assets/95ae8f8e-19e4-4f6b-abc5-2af4428c9f92)
