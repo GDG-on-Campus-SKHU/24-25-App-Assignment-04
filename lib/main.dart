@@ -20,7 +20,7 @@ class MyProfile extends StatelessWidget {
       appBar: AppBar(
         title: Text('MyProfile'),
         centerTitle: true, 
-        backgroundColor: const Color.fromARGB(255, 76, 109, 138), // 원하는 색상으로 설정
+        backgroundColor: const Color.fromARGB(255, 76, 109, 138), 
       ),
       body: Padding(
         padding: const EdgeInsets.all(16.0),
@@ -32,7 +32,7 @@ class MyProfile extends StatelessWidget {
               child: CircleAvatar(
                 radius: 60,
 
-                backgroundImage:  AssetImage('assets/images/KakaoTalk_20241022_235349121.png'), // assets 폴더에 이미지 추가 필요
+                backgroundImage:  AssetImage('assets/images/KakaoTalk_20241022_235349121.png'), 
               ),
             ),
             SizedBox(height: 15),
@@ -42,11 +42,13 @@ class MyProfile extends StatelessWidget {
               'NAME',
               style: TextStyle(fontSize: 14, color: Colors.grey),
             ),
-                                    Text(
+                                   
+                                   
+                                 Text(
               '이민용', // 이름
               style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
             ),
-            SizedBox(height: 10),
+             SizedBox(height: 10),
             
             Text(
               'GITHUB ID',
