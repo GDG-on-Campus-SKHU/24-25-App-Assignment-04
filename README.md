@@ -1,3 +1,21 @@
+<<<<<<< HEAD
+# flutter_application_1
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+=======
 # 24-25 App Assignment 04
 
 ## 📝 과제 수행 관련
@@ -49,3 +67,4 @@ PR 작성하실 때, 궁금한 점이나 어려웠던 점 등을 적어주세요
 
 cf. 예시에서 자기소개와 2025 목표는 ListTile을 이용해 구현했습니다. 
 
+>>>>>>> a67797b5c873007d386cb8f6a63bce3963cb1372
